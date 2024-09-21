@@ -31,7 +31,7 @@
      <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
  </p>
  
-<details> 
+<details open> 
    <summary><h2>🛠️ My Favorite Tools</h2></summary>
    <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
  
